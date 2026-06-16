@@ -1,0 +1,19 @@
+Notizen DaBi:
+
+- Modell auf gesplittete Daten
+- Uhrzeit sinusförmig darstellen
+- Plots zoombar gestalten
+- was sind das für "Ausreiser" bei den Residuen?
+
+G8: Untersuchen Sie und machen Sie nachvollziehbar, was bei
+dem linearen Modell bisher schief geht, insbesondere, wie zu
+dem anscheinend negativen R^2 gekommen ist. Möglicherweise
+ergibt sich daraus dann auch ein Ansatz für ein
+verbessertes Modell. Die Aufgabe beinhaltet explizit auch,
+zu verstehen, was beim ersten Ansatz passiert ist; einfach
+etwas anderes auszuprobieren, das dann funktioniert, reicht
+dafür nicht.
+
+
+Als Abgabetermin ist der 18.6. angedacht, so dass nach den
+Ferien noch Zeit sein müsste, ggf. Fragen zu klären.
